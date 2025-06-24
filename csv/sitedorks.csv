@@ -79,6 +79,8 @@ buymeacoffee.com,fin
 cdn.cloudflare.net,cloud
 censys.io,analysis
 change.org,social
+chatgpt.com/share,ai
+chat.openai.com/share,ai
 chat.whatsapp.com,comm
 chegg.com/flashcards,docs
 ci.appveyor.com,dev
@@ -235,6 +237,7 @@ freshdesk.com,cloud
 g.co,shortener
 gab.com,social
 gartner.com/reviews,orgs
+gemini.google.com/share,ai
 getrevue.co/profile,comm
 gettr.com,social
 ghostbin.co/paste,dev
@@ -272,6 +275,7 @@ herokuapp.com,cloud
 hottg.com,comm
 hs-sites.com,cloud
 hsforms.com,docs
+hstgr.cloud,cloud
 hub.docker.com,dev
 hubspot.net,cloud
 hubspotemail.net,comm
